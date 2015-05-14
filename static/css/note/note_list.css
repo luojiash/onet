@@ -1,0 +1,9 @@
+#note-list { margin: 0 0; }  
+.note-item .meta {border-bottom: 1px solid #F5F5F5;font-size: 13px;margin: 8px 0px; padding: 5px 8px;}  
+.note-item {line-height: 25px; background-color: #FFF;}
+.note-item h3 {margin-top: 0px;}
+.action {font-size: 15px;margin-top: 16px;margin-right: 12px;}
+.action a {padding: 0px 2px;}
+.action .star {color: rgb(229, 164, 0);}
+table {width: 100%;margin: 15px 0;}
+table td {border: 1px solid #ccc;vertical-align: top;padding: 2px 4px;}

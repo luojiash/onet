@@ -1,0 +1,6 @@
+.simditor .simditor-body {min-height: 20px;}
+.alert .label {background-color: #D6DBDF;color: #2C3E50;border-radius: 4px;font-size: 14px;}
+.well {line-height: 25px; background-color: #FFF;}
+.action {font-size: 14px;margin-top: 10px;margin-right: 12px;color: #999;}
+.action a {padding: 0px 2px;}
+.meta { border-top: 1px solid #F5F5F5; border-bottom: 1px solid #F5F5F5;font-size: 13px;margin: 8px 0px; padding: 5px 8px;}
