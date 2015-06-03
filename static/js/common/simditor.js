@@ -20,10 +20,10 @@ $(document).ready(function(){
 				alert("get user setting error");
 			},
 			success: function(data){
-				if (data.result) {
+				if (data) {
 					localStorage.mdEnabled = data.mdEnabled;
 				} else {
-					alert(data.returnMessage);
+					alert(data);
 				}
 			}
 		});

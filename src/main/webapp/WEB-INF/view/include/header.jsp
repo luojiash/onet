@@ -33,7 +33,7 @@
             <li><a href="/tag/manage"><span class="glyphicon glyphicon-cog"></span> 标签管理</a></li>			
 		</ul>
 		<ul class="nav navbar-nav navbar-right">
-			<c:if test="${role eq 'Admin' }">
+			<c:if test="${role eq 'ADMIN' }">
 			<li><a href="/admin/user/list"><span class="glyphicon glyphicon-wrench"></span> 用户管理</a></li>
 			</c:if>
 			<li class="dropdown">
